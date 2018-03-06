@@ -1,7 +1,9 @@
 
 # Python Basics
 
-In this Note, we will learn how to use Python as a programming language. This will be a summarized version of the official [Python tutorial](https://docs.python.org/3/tutorial/index.html). I omitted some concepts of Python. This is not because they are not important, but because we can do the things in simpler way if we use NumPy, SciPy, or AstroPy related packages/classes/modules. Before explaining what they are, I thought it is better to just introduce the core concepts of Python objects very-very briefly, and show how to use them. Then once you got familiar with them, you can `import numpy` and use it freely.
+In this Note, you will learn how to use Python. I omitted some concepts of Python, not because they are not important, but because you may learn them gradually and we can do the things in simpler ways if we use NumPy, SciPy, or AstroPy related packages/classes/modules.
+
+After you're finished looking at this material, I recommend you to go look at the [scipy lecture notes](https://www.scipy-lectures.org/) (chapter 1 will be enough), which although looks long but very concise and easy to understand. Then the books ["A Student's Guide to Python for Physical Modeling"](https://press.princeton.edu/titles/11349.html) and ["think python"](http://greenteapress.com/wp/think-python-2e/) (free book) are also good sources. The former is rather scince-oriented and the latter is rather general. For astronomers, there is a book called ["Statistics, Data Mining, and Machine Learning in Astronomy"](https://www.amazon.com/Statistics-Mining-Machine-Learning-Astronomy/dp/0691151687).
 
 
 
