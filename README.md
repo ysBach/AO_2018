@@ -35,10 +35,13 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 
 ### Photometry + Polarimetry (AO1)
 
-| Date       | Contents                                          | Corresponding Notes                                          |
-| ---------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| 2018-03-22 | UNIX, IRAF, and other astronomy-related softwares | "IRAF" + Read lecture notes 1 and 2 before coming to the class. |
-| 2018-03-29 | Photometry on the computer (using python)         |                                                              |
-| 2018-04-05 | Telescope?                                        |                                                              |
-|            |                                                   |                                                              |
+| Date             | Contents                                          | Corresponding Notes                                          |
+| ---------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| 2018-03-22 (Thu) | Observation tutorial                              | [eTL Notice](http://etl.snu.ac.kr/mod/ubboard/article.php?id=662688&bwid=1420599) |
+| 2018-03-27 (Tue) | On Observation Planning                           | Note by Sunho Jin                                            |
+| 2018-03-29 (Thu) | Statistics and Photometry                         | Y. P. Bach's handwritten notes will be distributed           |
+| 2018-04          | UNIX, IRAF, and other astronomy-related softwares | "IRAF"                                                       |
+| 2018-04          | Photometry on the computer (using python)         |                                                              |
+| 2018-04          | Telescope?                                        |                                                              |
+|                  |                                                   |                                                              |
 
