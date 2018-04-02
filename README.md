@@ -23,11 +23,12 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 
 
 
-[Preface](https://github.com/ysBach/AO_LectureNotes/blob/master/__Preface__.md)
+[Preface](https://github.com/ysBach/AO_LectureNotes/blob/master/00_Preface.md)
 
 1. [Installation of softwares](https://github.com/ysBach/AO_LectureNotes/blob/master/Softwares.md)
 2. Basics you should at least know about [UNIX](https://github.com/ysBach/AO_LectureNotes/blob/master/UNIX.md) and [Python](https://github.com/ysBach/AO_LectureNotes/blob/master/Python.md).
 3. [IRAF](https://github.com/ysBach/AO_LectureNotes/blob/master/IRAF.md)
+4. TA-Extra: [Python basic](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Python-Extra.ipynb). For installation part, see the installation note.
 
 
 
@@ -35,13 +36,14 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 
 ### Photometry + Polarimetry (AO1)
 
-| Date             | Contents                                          | Corresponding Notes                                          |
-| ---------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| 2018-03-22 (Thu) | Observation tutorial                              | [eTL Notice](http://etl.snu.ac.kr/mod/ubboard/article.php?id=662688&bwid=1420599) |
-| 2018-03-27 (Tue) | On Observation Planning                           | Note by Sunho Jin                                            |
-| 2018-03-29 (Thu) | Statistics and Photometry                         | Y. P. Bach's handwritten notes will be distributed           |
-| 2018-04          | UNIX, IRAF, and other astronomy-related softwares | "IRAF"                                                       |
-| 2018-04          | Photometry on the computer (using python)         |                                                              |
-| 2018-04          | Telescope?                                        |                                                              |
-|                  |                                                   |                                                              |
+| Date             | Contents                                                     | Corresponding Notes                                          |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2018-03-22 (Thu) | Observation tutorial at building #45                         | [eTL Notice](http://etl.snu.ac.kr/mod/ubboard/article.php?id=662688&bwid=1420599) |
+| 2018-03-27 (Tue) | On Observation Planning                                      | Note by Sunho Jin                                            |
+| 2018-03-29 (Thu) | Statistics and Photometry                                    | Y. P. Bach's handwritten notes will be distributed           |
+| 2018-04-02 (Mon) | TA Extra-Session (IRAF/PyRAF installation + Python basic)    | Python basic                                                 |
+| 2018-04-03 (Tue) | Photometry Theory, UNIX, IRAF, and other astronomy-related softwares | "IRAF"                                                       |
+| 2018-04-05 (Thu) | Photometry on the computer (using python)                    |                                                              |
+| 2018-04          | Telescope?                                                   |                                                              |
+|                  |                                                              |                                                              |
 
