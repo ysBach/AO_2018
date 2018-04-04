@@ -234,6 +234,40 @@ I use geany for miscellaneous and short works because it is extremely light. The
 
 I have tried all the aforementioned editors, and settled down to the lightest, fastest, most intuitive/interactive, and yet functional editors after ~ 2 years of trial and error. BUT this is just my personal opinion, and you may find very different solution. I have many friends who use VI only for all the coding works. If you can, I recommend to use VI as your main/sub editor, or at least learn how to use it. I don't use VI just because for me it is too difficult to use it.
 
+### 6.1. Spyder
+
+Spyder has many important and useful functionalities. Because it uses IPython console as its default, it is very convenient to use it as editor and as terminal at the same time. 
+
+#### 6.1.1. Shortcuts
+
+Go to Tools -> Preferences (`Ctrl+Alt+Shift+P` on Ubuntu). "Keyboard shortcuts" list all the useful shortcuts. On Ubuntu, followings are the most important and useful ones:
+
+* `F9`: run the line
+* `ctrl+1`, `ctrl+4`: make comment or comment block. Test it by yourself to see it.
+* `ctrl+5`: Remove the comment block
+* `#%%`: (It's not a shortcut) Makes the "cell". Use it like this:  
+    ```python
+    #%%
+    # Cell 1
+    import numpy as np
+
+    #%%
+    # Cell 2
+    print(np.ones(10))
+    ```
+* `ctrl+enter`: Run the cell, remaining at the cell. 
+* `shift+enter`: Run the cell, Proceed to the next cell.
+* `ctrl+shift+E`: Change the focus to "editor" window
+* `ctrl+shift+I`: Change the focus to "IPython console" window
+
+#### 6.1.2. Useful Settings
+
+It is better to let `matplotlib` plotting window to pop-up (than showing the figure in-line). Go to the Preferences --> IPython Console --> Graphics. Set Graphics backend to "Automatic". Turn Spyder off and turn it on again. You will now see a new window pops up when you plot anything, e.g.,
+
+```python
+import maptlotlib.pyplot as plt
+plt.plot([0,1], [1,1])    
+```
 
 
 ## 7. Image Displayer
