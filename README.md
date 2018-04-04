@@ -29,6 +29,9 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 2. Basics you should at least know about [UNIX](https://github.com/ysBach/AO_LectureNotes/blob/master/UNIX.md) and [Python](https://github.com/ysBach/AO_LectureNotes/blob/master/Python.md).
 3. [IRAF](https://github.com/ysBach/AO_LectureNotes/blob/master/IRAF.md)
 4. TA-Extra: [Python basic](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Python-Extra.ipynb). For installation part, see the installation note.
+5. [Photometry using Python](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Python_Photometry.ipynb)
+6. Preprocessing using Python
+7. Miscellaneous: Cosmic-ray rejection
 
 
 
@@ -43,7 +46,7 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 | 2018-03-29 (Thu) | Statistics and Photometry                                    | Y. P. Bach's handwritten notes will be distributed           |
 | 2018-04-02 (Mon) | TA Extra-Session (IRAF/PyRAF installation + Python basic)    | Python basic                                                 |
 | 2018-04-03 (Tue) | Photometry Theory, UNIX, IRAF, and other astronomy-related softwares | "IRAF"                                                       |
-| 2018-04-05 (Thu) | Photometry on the computer (using python)                    |                                                              |
+| 2018-04-05 (Thu) | Photometry on the computer (using python)                    | Photometry using python                                      |
 | 2018-04          | Telescope?                                                   |                                                              |
 |                  |                                                              |                                                              |
 
