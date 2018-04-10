@@ -34,6 +34,8 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 7. Miscellaneous: Cosmic-ray rejection
 
 
+[Team help desk](https://github.com/ysBach/AO_LectureNotes/blob/master/Team_Help_Desk.md)
+
 
 ## Schedules
 
