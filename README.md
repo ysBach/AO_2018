@@ -31,7 +31,10 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 4. TA-Extra: [Python basic](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Python-Extra.ipynb). For installation part, see the installation note.
 5. [Photometry using Python](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Python_Photometry.ipynb)
 6. Preprocessing using Python
-7. Miscellaneous: Cosmic-ray rejection
+7. Photometry Appendix:
+   1. [Cosmic-ray rejection](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Appendix_CRRejection.ipynb)
+   2. SExtractor background
+   3. astrometry.net
 
 
 [Team help desk](https://github.com/ysBach/AO_LectureNotes/blob/master/Team_Help_Desk.md)
