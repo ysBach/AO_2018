@@ -8,13 +8,14 @@ This is a collection of some selected Q&A between the TA/professor and students,
 
 Before conducting observation,
 
-1. Check the twilight times. If you observe during twilight, there must be specific reasons (e.g., taking sky flat, etc). Unless, observe when the twilight is over.
+1. Check the **twilight** times. If you observe during twilight, there must be specific reasons (e.g., taking sky flat, etc). Unless, observe when the twilight is over.
    * Check the twilight time at, e.g., JPL/HORIZONS or other web sites ([example](http://suncalc.net/#/37.5665,126.978,6/2018.04.14/14:08))
-2. Check the altitude of your target at, e.g., [staralt](http://catserver.ing.iac.es/staralt/).
+2. Check the **altitude** of your target at, e.g., [staralt](http://catserver.ing.iac.es/staralt/).
    * Remember 24-inch telescope SNU can observe altitude of 30 deg to 85 deg only.
-3. Check whether there are visible standard stars right after/before the target observation at similar altitudes. Observe the standard star when it is at different altitude so that you can derive the air extinction coefficient.
+3. Check whether there are visible **standard stars** (red/blue pairs, i.e., at least two standard stars with different colors: see the hand-written lecture note.) right after/before the target observation at similar altitudes. Observe the standard star when it is at different altitude so that you can derive the air extinction coefficient.
    * **TIP**: If you failed in obtaining the standard star correctly, all of your data will be useless. In this type of ground-based observation (i.e., Seoul city light, unfavorable weather, instrumental issues, and most importantly, educational purpose), generally we take more time in observing standard star than the target. 
-4. Do not forget to take proper dark and flat images. You may skip bias if you have taken dark images with the same exposure time as that of the target and flat images.
+4. It is better to arrive at the observatory ~1 hour before the start of the observation. You may have trouble with dome, computer, and finding the target properly. If you plan 2 hr observation, you most likely need 5 hr or even more.
+5. Do not forget to take proper dark and flat images after/before the observation. You may skip bias if you have taken dark images with the same exposure time as that of the target and flat images.
 
 
 
