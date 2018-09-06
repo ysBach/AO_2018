@@ -6,6 +6,7 @@ All the lecture notes are primarily made by **Yoonsoo P. Bach**. I tried not to 
 
 | Semester    | Instructor                  | TA                                 |
 | ----------- | --------------------------- | ---------------------------------- |
+| 2018 Fall   | professor Masateru Ishiguro | Sunho Jin, Y. P. Bach (unofficial) |
 | 2018 Spring | professor Masateru Ishiguro | Sunho Jin, Y. P. Bach (unofficial) |
 | 2017 Fall   | professor Masateru Ishiguro | Y. P. Bach (& Da-Eun Kang)         |
 | 2017 Spring | professor Masateru Ishiguro | Y. P. Bach (& Na-Eun Shin)         |
