@@ -18,6 +18,15 @@ All the lecture notes are primarily made by **Yoonsoo P. Bach**. I tried not to 
 
 
 
+## To Use This Repo
+You may have your preferences to use this repo. One of the possible suggestions is to clone/fork this repo and pull regularly to keep updated:
+```
+$ cd <Where you want to download this lecture note>
+# For the first time only:
+$ git clone https://github.com/ysBach/AO_LectureNotes.git
+# From the second time:
+$ git pull
+```
 
 ## TA Lecture Notes Outline
 
