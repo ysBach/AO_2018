@@ -44,13 +44,17 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 5. [Photometry using Python](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Python_Photometry.ipynb)
 6. [Preprocessing using Python](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Python_Preprocessing.ipynb)
 7. Photometry Appendix:
-   1. [Cosmic-ray rejection](http://nbviewer.jupyter.org/github/ysbach/AO_LectureNotes/blob/master/Appendix_CRRejection.ipynb)
-   2. SExtractor background
-   3. astrometry.net
-8. [TRIPOL](https://github.com/ysBach/AO_LectureNotes/blob/master/About_TRIPOL.md)
+   1.  [Cosmic-Ray rejection](https://nbviewer.jupyter.org/github/ysBach/AO_LectureNotes/blob/master/Appendix_CRRejection.ipynb)
+   2. [SExtractor Background Estimation](https://nbviewer.jupyter.org/github/ysBach/AO_LectureNotes/blob/master/Appendix_SExtractor.ipynb)
+   3. [Team help desk](https://github.com/ysBach/AO_LectureNotes/blob/master/Team_Help_Desk.md)
+   4. [TRIPOL](https://github.com/ysBach/AO_LectureNotes/blob/master/About_TRIPOL.md)
 
+-----
 
-[Team help desk](https://github.com/ysBach/AO_LectureNotes/blob/master/Team_Help_Desk.md)
+9. [Spectroscopy Concepts](https://nbviewer.jupyter.org/github/ysBach/AO_LectureNotes/blob/master/Spectroscopy_Concept.ipynb)
+10. TBD
+11. Spectroscopy Appendix:
+    1. [Spectroscopy Example](https://nbviewer.jupyter.org/github/ysBach/AO_LectureNotes/blob/master/Python_Spectroscopy_Example.ipynb) (See lecture 10 for detailed explanations)
 
 
 
