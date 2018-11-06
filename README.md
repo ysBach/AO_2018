@@ -52,9 +52,11 @@ The following lecture notes *only* gives you idea how to use tools for data redu
 -----
 
 9. [Spectroscopy Concepts](https://nbviewer.jupyter.org/github/ysBach/AO_LectureNotes/blob/master/Spectroscopy_Concept.ipynb)
-10. TBD
+10. [Spectroscopy in Python](https://nbviewer.jupyter.org/github/ysBach/AO_LectureNotes/blob/master/Spectroscopy_in_Python.ipynb)
 11. Spectroscopy Appendix:
     1. [Spectroscopy Example](https://nbviewer.jupyter.org/github/ysBach/AO_LectureNotes/blob/master/Python_Spectroscopy_Example.ipynb) (See lecture 10 for detailed explanations)
+    2. [How to use SMOKA](https://github.com/ysBach/AO_LectureNotes/blob/master/How2SMOKA.pdf) ([pptx version](https://github.com/ysBach/AO_LectureNotes/blob/master/How2SMOKA.pptx))
+    3. [Spectroscopy in IRAF](https://github.com/ysBach/AO_LectureNotes/blob/master/Spectroscopy_in_IRAF.pdf) ([docx version](https://github.com/ysBach/AO_LectureNotes/blob/master/Spectroscopy_in_IRAF.docx))
 
 
 
