@@ -1,4 +1,16 @@
-# AO Lecture Notes
+# This is a Deprecated Repository.
+This repo is left only as an archival purpose. 
+
+See the latest SNU AO Class notes at 
+
+**[here](https://github.com/ysBach/SNU_AOclass)**
+
+----
+----
+----
+
+
+# AO_2018
 
 All the lecture notes are primarily made by **Yoonsoo P. Bach**. I tried not to make typo, logically wrong statement, etc. If any problem is there in the note, that's solely my fault, so please be kind and let me know so that the notes can be updated.
 
